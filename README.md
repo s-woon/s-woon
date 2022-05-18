@@ -1,7 +1,6 @@
 # 👋 **Hi there!** 👋
-#
-#
-#
+
+
 ## 🔥 Studying 🔥
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white)  ![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=Django&logoColor=white) ![Qt](https://img.shields.io/badge/Qt-41CD52?style=flat&logo=Qt&logoColor=white) ![YOLO](https://img.shields.io/badge/YOLO-00FFFF?style=flat&logo=YOLO&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=TensorFlow&logoColor=white) ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=OpenCV&logoColor=white)
 
